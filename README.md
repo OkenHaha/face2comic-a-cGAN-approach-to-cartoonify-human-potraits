@@ -16,7 +16,7 @@ This code repository, documentation along with the model is under the [MIT Licen
   title={Face2Comic: Pix2Pix cGAN-Based Approach to Cartoonify Human Portraits},
   author={Keithellakpam Oken},
   year={2024},
-  note={MCA Final Semester Project, National Institute of Technology, Manipur},
+  note={MCA Final Semester Project, National Institute of Electronics and Information Technology, Manipur},
   url={https://github.com/OkenHaha/face2comic-a-cGAN-approach-to-cartoonify-human-potraits}
 }
 ```
