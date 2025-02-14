@@ -1,11 +1,11 @@
 # Face2Comic: A cGAN approach to cartoonify human protraits
 
 ## 1. Introduction
-This is a project submission for my final semester in Master's in Computer Application. During this short span due to ongoing internal conflict in Manipur, I build and develop a Image Generative model where it converts Human potraits into Cartoon version of it. It is not fully accurate but It works quite well. I've uploaded all the source coded along with the documentation as well.
+This project submission is for my final semester in the Master of Computer Application program. Amid the challenging circumstances arising from the ongoing internal conflict in Manipur, I developed an image generative model that converts human portraits into cartoon-style illustrations. While the model is not fully accurate, it performs quite effectively. Due to limited GPU access, the training was carried out on a Google Colab T4 GPU, which imposed certain constraints on the training duration and performance. I have also provided the complete source code and accompanying documentation for reference.
 
 ## 2. Model
 The trained model can be assessed on the HuggingFace website
-Link:- https://huggingface.co/okenk/face2comic
+Link:- [Face2Comic Model](https://huggingface.co/okenk/face2comic)
 
 ## 3. License
 This code repository, documentation along with the model is under the [MIT License](https://github.com/OkenHaha/face2comic-a-cGAN-approach-to-cartoonify-human-potraits/blob/main/LICENSE) 
